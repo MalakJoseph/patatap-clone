@@ -20,7 +20,7 @@ Just press any key from A-Z and you'll see that every key has its own sound and 
 You can visit the live demo [here](https://malakjoseph.github.io/patatap-clone/).
 
 ### Credits
-* All credits goes to ***Colt Steele*** from [The Web Developer Boot Camp](https://www.udemy.com/the-web-developer-bootcamp/).
+* All credits go to ***Colt Steele*** from [The Web Developer Boot Camp](https://www.udemy.com/the-web-developer-bootcamp/).
 * [Howler](https://howlerjs.com/)
 * [Paper](http://paperjs.org/)
 
